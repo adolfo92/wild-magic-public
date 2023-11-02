@@ -1,5 +1,7 @@
 # wild-magic-public
 
+Check it live at https://adolfo92.github.io/wild-magic-public/
+
 This is based on the amazing workd of The Net Libram of Random Magical Effects
 version 2.00
 By Orrex
